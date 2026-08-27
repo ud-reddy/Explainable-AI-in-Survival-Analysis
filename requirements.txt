@@ -1,0 +1,11 @@
+# Versions match Table 4.2 of the dissertation
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.10.8
+scipy>=1.11
+scikit-learn==1.8.0
+scikit-survival==0.27.0
+shap==0.52.0
+survshap==0.4.2
+statsmodels==0.14.6
+jupyter>=1.0
